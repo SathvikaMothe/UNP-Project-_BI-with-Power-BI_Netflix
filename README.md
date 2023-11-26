@@ -14,5 +14,5 @@ According to the data, viewers have a preference for certain packages,modes of w
 other factors.It involved in Creating data model, implemented data transformations and 
 calculations using DAX for accurate analysis and reporting.
 
-PBIX file Link: https://drive.google.com/file/d/1xm_0kDMfM97cY7AkzxXq1XlhIKxx2Abs/view?usp=sharing
-Link: https://drive.google.com/file/d/1GaOvCmuj16k8Bv70aitzv9zkjE71zoet/view?usp=sharing
+PBIX file Link: https://drive.google.com/file/d/1xm_0kDMfM97cY7AkzxXq1XlhIKxx2Abs/view?usp=sharing 
+Link: https://drive.google.com/file/d/1EkJp9VYJXbpJzE3uAr44LgqTr0eb0o8G/view?usp=sharing
